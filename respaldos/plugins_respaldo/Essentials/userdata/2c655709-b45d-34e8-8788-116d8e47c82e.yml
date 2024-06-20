@@ -1,0 +1,119 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.89.107.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718680684175
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718680785601
+  login: 1718676780097
+money: '0'
+last-account-name: Tito_calderon24
+logoutlocation:
+  world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+  world-name: minechoto
+  x: 49.36014971570165
+  y: 88.0
+  z: 66.10065268083258
+  yaw: -48.15141296386719
+  pitch: 10.200538635253906
+lastlocation:
+  world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+  world-name: minechoto
+  x: 33.4968149762629
+  y: 85.0
+  z: 70.3576676828015
+  yaw: 158.98974609375
+  pitch: 22.452322006225586
+homes:
+  granja_aldeanos:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 73.10777410258191
+    y: 63.0
+    z: 325.6438591107164
+    yaw: -174.712890625
+    pitch: 25.630891799926758
+  tortuga:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 19.916859976989468
+    y: 63.0
+    z: -459.99505585011013
+    yaw: -17.832612991333008
+    pitch: 19.891569137573242
+  aldea_2:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 581.7358670882668
+    y: 63.0
+    z: 1196.4231116910742
+    yaw: 177.818359375
+    pitch: -5.222744464874268
+  aldea_3:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 215.41388854809216
+    y: 72.0
+    z: 1877.0660251025142
+    yaw: -2.7252721786499023
+    pitch: 8.088128089904785
+  lushcave1:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 203.9136092961041
+    y: 72.0
+    z: 1693.006209693036
+    yaw: 4.16796875
+    pitch: 43.90808868408203
+  mineria:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 87.04419734857669
+    y: -8.0
+    z: 164.30000001192093
+    yaw: -20.647613525390625
+    pitch: 28.649930953979492
+  mansion:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 35.070502232406334
+    y: 96.0
+    z: 68.0761513095541
+    yaw: -158.60791015625
+    pitch: 19.573400497436523
+  enchant:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 73.76168055704267
+    y: 117.0
+    z: 81.36075196360146
+    yaw: 179.85008239746094
+    pitch: 15.750003814697266
+  mansion_granja:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 48.737902698468694
+    y: 88.0
+    z: 58.63253443066251
+    yaw: -67.20175170898438
+    pitch: 15.900564193725586
+  granja_hierro:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: -32.6844053881379
+    y: 76.0
+    z: 104.2018717090174
+    yaw: -113.653076171875
+    pitch: 22.829578399658203

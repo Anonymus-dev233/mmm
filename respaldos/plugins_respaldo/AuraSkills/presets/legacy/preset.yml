@@ -1,0 +1,36 @@
+files:
+  - path: skills.yml
+    action: merge
+  - path: abilities.yml
+    action: merge
+  - path: menus/skills.yml
+    action: merge
+  - path: rewards/agility.yml
+    action: replace
+  - path: rewards/enchanting.yml
+    action: replace
+  - path: rewards/alchemy.yml
+    action: replace
+  - path: rewards/endurance.yml
+    action: replace
+  - path: rewards/forging.yml
+    action: replace
+  - path: rewards/healing.yml
+    action: replace
+  - path: rewards/sorcery.yml
+    action: replace
+  - path: sources/agility.yml
+    action: replace
+  - path: sources/enchanting.yml
+    action: replace
+  - path: sources/alchemy.yml
+    action: replace
+  - path: sources/endurance.yml
+    action: replace
+  - path: sources/forging.yml
+    action: replace
+  - path: sources/healing.yml
+    action: replace
+  - path: sources/sorcery.yml
+    action: replace
+file_version: 1

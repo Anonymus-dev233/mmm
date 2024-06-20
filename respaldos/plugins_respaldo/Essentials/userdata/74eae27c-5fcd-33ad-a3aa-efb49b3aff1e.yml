@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.30.226.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718667043105
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718667443158
+  login: 1718663432298
+money: '0'
+last-account-name: Yoshua
+logoutlocation:
+  world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+  world-name: minechoto
+  x: 85.72805152872904
+  y: 63.0
+  z: 324.60097866493214
+  yaw: 171.60003662109375
+  pitch: 6.4499969482421875
+lastlocation:
+  world: e9777c95-9378-43b1-8857-aee37da16ea9
+  world-name: minechoto_nether
+  x: 144.30000001192093
+  y: 60.0
+  z: -193.03551170340745
+  yaw: 101.36688232421875
+  pitch: 12.814785957336426
+homes:
+  home:
+    world: ff4ae2d7-6c45-40f0-b159-900eac2275c9
+    world-name: minechoto
+    x: 88.55157942767124
+    y: 64.0
+    z: 314.8520767122881
+    yaw: 174.89788818359375
+    pitch: 26.70001792907715
